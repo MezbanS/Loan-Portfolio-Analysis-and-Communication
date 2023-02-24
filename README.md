@@ -1,4 +1,4 @@
-# Loan-Porfolio-Analysis-and-Communication
+# Loan-Portfolio-Analysis-and-Communication
 
 
 This project aims to analyze loan portfolios and communication history for a financial institution. The project involves analyzing two datasets related to loans given to customers and their communication history. The first dataset, Portfolio_data.csv, contains information about loans given to customers, including their demographic information and the loan amount. The second dataset, CommunicationHistory.csv, contains details about the attempts made to contact these customers and the status of these calls.
